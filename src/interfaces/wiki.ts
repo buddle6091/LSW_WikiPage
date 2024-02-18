@@ -1,4 +1,4 @@
-export interface Wiki {
+export interface WikiProps {
     id: number;
     title: string;
     content: string;
